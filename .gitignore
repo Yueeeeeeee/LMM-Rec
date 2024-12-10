@@ -1,0 +1,17 @@
+*.pyc
+*.p
+*.pt
+*.pth
+.DS_Store
+
+/.ipynb_checkpoints/*
+/.vscode/*
+/wandb/*
+
+/data/*
+/photos/*
+/archive/*
+/retrieved/*
+/experiments/*
+/archive/*
+/temp/*
